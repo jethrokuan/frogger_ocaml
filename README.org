@@ -1,0 +1,4 @@
+#+TITLE: Frogger
+
+Implementation of Frogger given the template from
+[[https://github.com/janestreet/learn-ocaml-workshop][janestreet/learn-ocaml-workshop]].
